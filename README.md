@@ -16,4 +16,4 @@ All training was done on a single NVIDIA A6000 GPU server with 24 cores and 64 G
 - Clone and configure (kohya-ss/sd-scripts)[https://github.com/kohya-ss/sd-scripts]
 - To train SD model for synthtic data generation simply run sd_train.ipynb
 - To generate synthtic data run synthetic-data-generation.ipynb
-- NN-competition-train.ipynb contains code to train model on synthtic data (end of the notebook). But you can update it as well
+- NN-competition-train.ipynb contains code to train model on synthtic data (end of the notebook). But you can update it as well.
